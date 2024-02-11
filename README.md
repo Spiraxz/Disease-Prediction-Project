@@ -17,12 +17,12 @@ The Disease Prediction Web Application aims to provide users with a convenient p
 
 ## Technology Stack
 
-- Python Flask Framework
+- Python Flask Framework for back-end development
 - Scikit-learn for machine learning model
+- Pandas library for feeding data to model
 - Bard API for disease information retrieval
 - HTML/CSS/JavaScript for front-end development
-- SQLite or PostgreSQL for database management
-- Docker for containerization (optional for deployment)
+
 
 ## Implementation
 
