@@ -11,8 +11,6 @@ The Disease Prediction Web Application aims to provide users with a convenient p
 
 3. **Detailed Disease Information:** Upon predicting a disease, the application fetches detailed information about the disease from the Bard API, providing users with comprehensive insights into the condition, including symptoms, causes, treatments, and preventive measures.
 
-4. **User Authentication and Privacy:** The application ensures user privacy and data security by implementing user authentication mechanisms to protect sensitive information.
-
 5. **Responsive Design:** The web application is designed to be responsive, ensuring compatibility across various devices, including desktops, tablets, and smartphones, for a seamless user experience.
 
 ## Technology Stack
