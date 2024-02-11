@@ -1,5 +1,5 @@
 # Disease Prediction Web Application
-(Note:You need bard api access for this to work)
+(Note:You need bard api access to get predicted disease description)
 ## Overview
 The Disease Prediction Web Application aims to provide users with a convenient platform to predict potential diseases based on their symptoms. Leveraging Python Flask framework and a trained Scikit-learn model, this web application offers users a seamless experience in identifying potential health issues. Additionally, it utilizes the Bard API to retrieve detailed information about predicted diseases, enhancing user understanding and awareness.
 
