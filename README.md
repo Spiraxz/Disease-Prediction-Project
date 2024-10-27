@@ -33,6 +33,10 @@ The Disease Prediction Web Application aims to provide users with a convenient p
 7. **Testing and Debugging:** Thoroughly test the application for functionality, performance, and security, and debug any issues that arise during testing.
 8. **Deployment:** Deploy the web application on a server, potentially utilizing Docker for containerization, to make it accessible to users over the internet.
 
+## Output Screen
+![1707682360934](https://github.com/user-attachments/assets/3db52f20-c34b-4b64-9962-2f8994ebd598)
+![1707682437056](https://github.com/user-attachments/assets/4990ad39-5964-493e-8ccf-c0f4e25df7bd)
+
 ## Future Enhancements
 
 - Integration with additional APIs for broader disease information coverage.
@@ -43,3 +47,4 @@ The Disease Prediction Web Application aims to provide users with a convenient p
 ## Conclusion
 
 The Disease Prediction Web Application offers a valuable tool for users to assess their health status based on symptoms and gain insights into potential diseases. By leveraging machine learning, web development technologies, and external APIs, the application provides a comprehensive platform for disease prediction and information dissemination, contributing to better healthcare awareness and management.
+
