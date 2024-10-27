@@ -48,5 +48,4 @@ The Disease Prediction Web Application aims to provide users with a convenient p
 
 The Disease Prediction Web Application offers a valuable tool for users to assess their health status based on symptoms and gain insights into potential diseases. By leveraging machine learning, web development technologies, and external APIs, the application provides a comprehensive platform for disease prediction and information dissemination, contributing to better healthcare awareness and management.
 
-![1707682437056](https://github.com/user-attachments/assets/55ff1d39-2b1e-4ac1-b2bd-a43bc99e6b0b)
-![1707682360934](https://github.com/user-attachments/assets/2b3469b5-346c-4087-a10b-0dfd922a3fbe)
+
